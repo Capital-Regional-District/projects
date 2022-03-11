@@ -10,13 +10,3 @@ assignees: ''
 #Description:
 
 #Outcome:
-
-#Artifacts Included:
-- [ ] Project Charter
-- [ ] Risk Register
-- [ ] Business Process Maps
-- [ ] Sample Files
-- [ ] Sample Reports
-- [ ] Detailed Requirements
-- [ ] WBS
-- [ ] Requirements Traceability Matrix
