@@ -11,7 +11,7 @@ assignees: ''
 
 #Outcome:
 
-#Artifacts Updated:
+#Artifacts Included:
 - [ ] Project Charter
 - [ ] Risk Register
 - [ ] Business Process Maps
