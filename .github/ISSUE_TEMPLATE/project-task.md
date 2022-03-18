@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 #Privacy of Information and Protection
-“Your opinion is your personal information. Please do not include any information which identifies you or others in your response.” 
+Your opinion is your personal information. Please do not include any information which identifies you or others in your response.
 
 #Description:
 
